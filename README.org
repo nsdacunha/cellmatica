@@ -1,2 +1,0 @@
-* Cellmatica
-A live wallpaper based on Conway's Game of Life. Once setup, it runs automatically with limited user interaction.
